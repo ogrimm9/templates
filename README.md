@@ -1,1 +1,2 @@
 # templates
+I love cookie
