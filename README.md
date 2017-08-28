@@ -1,2 +1,2 @@
 # templates
-I love cookie
+Place where I put my templates 
